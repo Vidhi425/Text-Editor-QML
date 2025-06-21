@@ -1,8 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/Texteditor2/">
-    <file alias="Main.qml">C:/Project/opencv/Texteditor2/Main.qml</file>
-    <file alias="images-asset.qrc">C:/Project/opencv/Texteditor2/images-asset.qrc</file>
-    <file alias=".gitignore">C:/Project/opencv/Texteditor2/.gitignore</file>
-  </qresource>
-</RCC>
-

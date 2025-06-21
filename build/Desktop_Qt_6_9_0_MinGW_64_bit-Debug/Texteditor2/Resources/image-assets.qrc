@@ -1,9 +1,0 @@
-<RCC>
-    <qresource prefix="/images">
-        <file>copy.png</file>
-        <file>file.png</file>
-        <file>folder.png</file>
-        <file>save.png</file>
-        <file>paper-stack.png</file>
-    </qresource>
-</RCC>
