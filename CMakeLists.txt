@@ -22,6 +22,7 @@ qt_add_qml_module(Texteditor2
         Main.qml
         SOURCES backend.h backend.cpp
         RESOURCES images-asset.qrc
+        RESOURCES .gitignore
 
 
 )

@@ -354,7 +354,7 @@ build .rcc/qmlcache/Texteditor2_Main_qml.cpp .rcc/qmlcache/Texteditor2_Main_qml.
 #############################################
 # Custom command for .qt\rcc\qrc_Texteditor2_raw_qml_0.cpp
 
-build .qt/rcc/qrc_Texteditor2_raw_qml_0.cpp | ${cmake_ninja_workdir}.qt/rcc/qrc_Texteditor2_raw_qml_0.cpp: CUSTOM_COMMAND C$:/Project/opencv/Texteditor2/Main.qml C$:/Project/opencv/Texteditor2/images-asset.qrc .qt/rcc/Texteditor2_raw_qml_0.qrc C$:/Qt/6.9.0/mingw_64/bin/rcc.exe || Texteditor2_autogen Texteditor2_autogen_timestamp_deps Texteditor2_copy_qml Texteditor2_copy_res Texteditor2_qmlimportscan
+build .qt/rcc/qrc_Texteditor2_raw_qml_0.cpp | ${cmake_ninja_workdir}.qt/rcc/qrc_Texteditor2_raw_qml_0.cpp: CUSTOM_COMMAND C$:/Project/opencv/Texteditor2/Main.qml C$:/Project/opencv/Texteditor2/images-asset.qrc C$:/Project/opencv/Texteditor2/.gitignore .qt/rcc/Texteditor2_raw_qml_0.qrc C$:/Qt/6.9.0/mingw_64/bin/rcc.exe || Texteditor2_autogen Texteditor2_autogen_timestamp_deps Texteditor2_copy_qml Texteditor2_copy_res Texteditor2_qmlimportscan
   COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\Project\opencv\Texteditor2\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug && C:\Qt\6.9.0\mingw_64\bin\rcc.exe --output C:/Project/opencv/Texteditor2/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_Texteditor2_raw_qml_0.cpp --name Texteditor2_raw_qml_0 C:/Project/opencv/Texteditor2/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/Texteditor2_raw_qml_0.qrc --no-zstd"
   DESC = Running rcc for resource Texteditor2_raw_qml_0
   restat = 1
@@ -431,7 +431,7 @@ build CMakeFiles/Texteditor2_copy_res | ${cmake_ninja_workdir}CMakeFiles/Textedi
 #############################################
 # Custom command for .qt\Texteditor2_res.txt
 
-build .qt/Texteditor2_res.txt | ${cmake_ninja_workdir}.qt/Texteditor2_res.txt: CUSTOM_COMMAND C$:/Qt/6.9.0/mingw_64/lib/cmake/Qt6Qml/Qt6QmlCopyFiles.cmake C$:/Project/opencv/Texteditor2/images-asset.qrc
+build .qt/Texteditor2_res.txt | ${cmake_ninja_workdir}.qt/Texteditor2_res.txt: CUSTOM_COMMAND C$:/Qt/6.9.0/mingw_64/lib/cmake/Qt6Qml/Qt6QmlCopyFiles.cmake C$:/Project/opencv/Texteditor2/images-asset.qrc C$:/Project/opencv/Texteditor2/.gitignore
   COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\Project\opencv\Texteditor2\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug && C:\Qt\Tools\CMake_64\bin\cmake.exe -DFILES_INFO_PATH=C:/Project/opencv/Texteditor2/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/Texteditor2_res.cmake -P C:/Qt/6.9.0/mingw_64/lib/cmake/Qt6Qml/Qt6QmlCopyFiles.cmake"
   DESC = Copying Texteditor2 qml resources into build dir
   restat = 1
