@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d8893e6c95454875fbea.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Texteditor2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Texteditor2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Texteditor2-Debug-8c91cfff69e6fe7f5432.json",
+					"name" : "Texteditor2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Texteditor2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Texteditor2_autogen-Debug-59af85606cb32496ea8a.json",
+					"name" : "Texteditor2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Texteditor2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Texteditor2_autogen_timestamp_deps-Debug-4da83aef1f33abbe12a4.json",
+					"name" : "Texteditor2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Texteditor2_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Texteditor2_copy_qml-Debug-f062162fa20f8adadcae.json",
+					"name" : "Texteditor2_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Texteditor2_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Texteditor2_copy_res-Debug-0b43ef7c5a74d29802da.json",
+					"name" : "Texteditor2_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Texteditor2_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Texteditor2_qmlimportscan-Debug-85d727053f3a11b4b2a1.json",
+					"name" : "Texteditor2_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Texteditor2_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Texteditor2_qmllint-Debug-60629dfec8b182c4fd37.json",
+					"name" : "Texteditor2_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Texteditor2_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Texteditor2_qmllint_json-Debug-bf767a4378ea454138b7.json",
+					"name" : "Texteditor2_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Texteditor2_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Texteditor2_qmllint_module-Debug-b8b94c6a704d368cf2d8.json",
+					"name" : "Texteditor2_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Texteditor2_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Texteditor2_qmltyperegistration-Debug-d9e8d4f74d0b7fb5b552.json",
+					"name" : "Texteditor2_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-a9dcf48f6a90bbe1480e.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-7d3bdecb89311b9c1f8b.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-afe3f3e9bbb84d01b52c.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-e66bce3621d22b9043b9.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-a7cf1a2b390f77004c03.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_Texteditor2_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_Texteditor2_aotstats_target-Debug-5d5ffd3e16c235871a2b.json",
+					"name" : "module_Texteditor2_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Project/opencv/Texteditor2/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "C:/Project/opencv/Texteditor2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
